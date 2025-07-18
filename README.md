@@ -1,6 +1,3 @@
-Based on the notebook content, here's a **`README.md`** file that explains the method chosen, architecture, and complete processing flow for the Aave Wallet Credit Scoring project:
-
----
 
 # 💳 Aave Wallet Credit Scoring
 
